@@ -17,23 +17,24 @@ You can access the live Shiny app here: <i><a href = "https://aranya-kundu.shiny
 * Sales Predictions: Featuring time series models to forecast EV sales for different manufacturers.
 
 ### The project is built using:
-<br>
+
 * R: For data manipulation, analysis, and model creation.
 * Shiny: For building the interactive user interface.
 * CSS: To enhance the layout and design of the Shiny app.
 
 ### Features
-<br>
-Interactive Data Visualizations: Explore various aspects of the EV market using dynamic charts and graphs.
-Time Series Models: Analyze and compare sales predictions for different manufacturers.
-Responsive UI: The dashboard is optimized for different screen sizes, offering a seamless user experience.
+
+* Interactive Data Visualizations: Explore various aspects of the EV market using dynamic charts and graphs.
+* Time Series Models: Analyze and compare sales predictions for different manufacturers.
+* Responsive UI: The dashboard is optimized for different screen sizes, offering a seamless user experience.
 
 ### How to Use
 
 Clone the Repository:
-bash
-> Copy code
+
+* bash: Copy code
 > git clone https://github.com/your-username/ev-market-analysis.git
+
 > cd ev-market-analysis
 
 
@@ -41,8 +42,7 @@ bash
 
 Open app.R in RStudio or any R environment, and run the app locally:
 
-R
-> Copy code
+* R: Copy code
 > shiny::runApp("app.R")
 
 ### Technologies Used
@@ -51,4 +51,5 @@ R
 * CSS (For UI customization)
 
 ### License
-This project is licensed under the MIT License. See the LICENSE file for more details.
+
+This project is free to use and made for educational puprposes only. It might not be utilized for making business decisions.
